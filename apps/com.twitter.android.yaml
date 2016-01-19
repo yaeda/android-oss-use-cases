@@ -1,0 +1,21 @@
+name: Twitter
+icon: https://lh3.ggpht.com/lSLM0xhCA1RZOwaQcjhlwmsvaIQYaP3c5qbDKCgLALhydrgExnaSKZdGa8S3YtRuVA
+libraries:
+  - Apache Software Foundation
+  - Apache Thrift
+  - Android Open Source Project
+  - Bouncy Castle Crypto (via Spongy Castle)
+  - Chris Banes
+  - ExoPlayer
+  - Google Cloud Messaging
+  - Google libphoneumber
+  - Google libaddressinput
+  - Jackson Java JSON-processor Core
+  - LoganSquare
+  - OkHttp
+  - RxJava
+  - RxAndroid
+  - Vandal Software, LLC
+  - Etsy AndroidStaggeredListview
+  - Jake Wharton's ViewPagerIndicator
+  - SlidingTabLayout from Google's SlidingTabsBasic sample project

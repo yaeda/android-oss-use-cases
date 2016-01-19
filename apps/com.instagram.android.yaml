@@ -1,0 +1,29 @@
+name: Instagram
+icon: https://lh3.ggpht.com/vFpQP39LB60dli3n-rJnVvTM07dsvIzxrCL5xMiy1V4GV4unC1ifXkUExQ4N-DBCKwI
+libraries:
+  - ACRA
+  - android-async-http
+  - Android Open Source Project
+  - Apache Commons Codec
+  - Apache HttpComponents Client
+  - Apache HttpComponents Core
+  - Apache Commons Logging
+  - Appirater for Android
+  - atinject
+  - chrometophone
+  - DiskLruCache
+  - Foursquared
+  - guava-libraries
+  - Jackson Annotations
+  - Jackson Core
+  - Jackson Databind
+  - jsr-305
+  - libjpeg-turbo
+  - libjpeg
+  - libogg
+  - libvorbis
+  - mp4parser
+  - rebound
+  - signpost
+  - webm
+  - XML Pull Parser
