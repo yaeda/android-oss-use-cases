@@ -1,0 +1,26 @@
+name: Trello
+icon: https://lh6.ggpht.com/wG3RSgReZcIcKsqFfsKSibR-j1UYfOekNmtY8x0n0mjWJT84U2V3l2lh3TmxeXfJis0z
+libraries:
+  - Apache Commons
+  - BetterPickers
+  - Butter Knife
+  - Calligraphy
+  - Dagger
+  - dexmaker
+  - gson
+  - gradle-retrolambda
+  - H2 Database
+  - Joda-Time
+  - Joda-Time-Android
+  - OkHttp
+  - OrmLite
+  - Otto
+  - Phrase
+  - Picasso
+  - Retrofit
+  - RoundedImageView
+  - RxJava
+  - RxAndroid
+  - StickyListHeaders
+  - Tape
+  - victor
