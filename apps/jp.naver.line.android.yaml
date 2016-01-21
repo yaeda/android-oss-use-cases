@@ -1,0 +1,49 @@
+name: LINE
+icon: https://lh4.ggpht.com/IkQ_kmk57G3fFkTOmtfQdp2XTZ8gic119yqvsKDkvbuPotfC7R05JPBdtuGm3OmA15xE
+libraries:
+  - Apache Thrift
+    - http://thrift.apache.org
+  - Apache Comons Collections
+    - http://commons.apache.org/proper/commons-collections/
+  - android-3d-flip-view-transition
+    - https://github.com/genzeb/flip
+  - Apache Cordova
+    - http://cordova.apache.org
+  - Android-PullToRefresh
+    - https://github.com/chrisbanes/Android-PullToRefresh
+  - Android reference source
+    - https://android.googlesource.com
+  - Google Play Services
+    - http://developer.android.com/google/play-services
+  - Netty
+    - http://netty.io
+  - zxing
+    - https://github.com/zxing/zxing
+  - Android_HorizontalListView
+    - https://github.com/lempere/Android_HorizontalListView
+  - libpng
+    - http://www.libpng.org/pub/png/libpng.html
+  - FFmpeg
+    - https://www.ffmpeg.org
+  - RxJava
+    - https://github.com/RectiveX/RxJava
+  - Curve25519
+    - http://cr.yp.to/ecdh.html
+  - ExoPlayer
+    - https://github.com/google/ExoPlayer
+  - SuperSLiM
+    - https://github.com/TonicArtos/SuperSLiM
+  - Ultra Pull To Refresh
+    - https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh
+  - Android PagerSlidingTabStrip
+    - https://github.com/astuetz/PagerSlidingTabStrip
+  - Tape by Square, Inc.
+    - https://github.com/square/tape
+  - Android-Exif-Extended
+    - https://github.com/sephiroth74/Android-Exif-Extended
+  - Kickflip SDK for Android
+    - https://github.com/Kickflip/kickflip-android-sdk
+  - grafika
+    - https://github.com/google/grafika
+  - libjpeg
+    - http://www.ijg.org/files
