@@ -1,0 +1,5 @@
+name: __APP_NAME__
+icon: __ICON_URL__
+version: __VERSION__
+libraries:
+  - __LIBRARY_NAME__
