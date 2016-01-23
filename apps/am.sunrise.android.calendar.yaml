@@ -1,0 +1,25 @@
+name: Sunrise Calendar
+icon: https://lh3.googleusercontent.com/RLUNbgsFeV9VNTDdIYSDH2VADqEUVtBAGxTnazj4Z8Hmwen4OEP54-laNB_mm8lgrG5e
+version: 4.2.0
+libraries:
+  - ActionBarSharlock
+    - https://github.com/JakeWharton/ActionBarSherlock
+  - Retrofit
+    - https://github.com/square/retrofit
+  - Picasso
+    - https://github.com/square/picasso
+  - StickyListHeaders
+    - https://github.com/emilsjolander/StickyListHeaders
+  - joda-time-android
+    - https://github.com/dlew/joda-time-android
+  - EventBus
+    - https://github.com/greenrobot/EventBus
+  - Facebook SDK
+    - https://github.com/facebook/facebook-android-sdk
+  - TokenAutoComplete
+    - https://github.com/splitwise/TokenAutoComplete
+  - Google Play Services
+  - Android source code
+  - android-support-v4
+  - Android DateTimePicker
+  - Android SDK
