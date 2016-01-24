@@ -1,5 +1,6 @@
 name: Twitter
 icon: https://lh3.ggpht.com/lSLM0xhCA1RZOwaQcjhlwmsvaIQYaP3c5qbDKCgLALhydrgExnaSKZdGa8S3YtRuVA
+version: 5.92.0
 libraries:
   - Apache Software Foundation
   - Apache Thrift

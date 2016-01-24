@@ -1,5 +1,6 @@
 name: Instagram
 icon: https://lh3.ggpht.com/vFpQP39LB60dli3n-rJnVvTM07dsvIzxrCL5xMiy1V4GV4unC1ifXkUExQ4N-DBCKwI
+version: 7.14.0
 libraries:
   - ACRA
   - android-async-http

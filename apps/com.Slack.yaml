@@ -1,5 +1,6 @@
 name: Slack
 icon: https://lh3.googleusercontent.com/CzlsZP3xUHeX3HAGdZ2rL9mK6_C-6T1-YWeBeM8nB3ilmfPSBHCFx4-UbQr8MnQms3d9
+version: 2.4.1-1357
 libraries:
   - PinnedSectionListView
   - HybiParser

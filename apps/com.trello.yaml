@@ -1,5 +1,6 @@
 name: Trello
 icon: https://lh6.ggpht.com/wG3RSgReZcIcKsqFfsKSibR-j1UYfOekNmtY8x0n0mjWJT84U2V3l2lh3TmxeXfJis0z
+version: 3.5.3.1299
 libraries:
   - Apache Commons
   - BetterPickers

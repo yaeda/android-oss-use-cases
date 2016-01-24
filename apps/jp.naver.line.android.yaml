@@ -1,5 +1,6 @@
 name: LINE
 icon: https://lh4.ggpht.com/IkQ_kmk57G3fFkTOmtfQdp2XTZ8gic119yqvsKDkvbuPotfC7R05JPBdtuGm3OmA15xE
+version: 5.10.0
 libraries:
   - Apache Thrift
     - http://thrift.apache.org
