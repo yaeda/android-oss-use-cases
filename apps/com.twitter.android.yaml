@@ -9,7 +9,7 @@ libraries:
   - Chris Banes
   - ExoPlayer
   - Google Cloud Messaging
-  - Google libphoneumber
+  - Google libphonenumber
   - Google libaddressinput
   - Jackson Java JSON-processor Core
   - LoganSquare
