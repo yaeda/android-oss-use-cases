@@ -1,0 +1,17 @@
+name: WordPress
+icon: https://lh3.googleusercontent.com/Wyi5h62r9j6Dahf7S4Ul4nNLdG87k3m9PSeYcsnnDzLEPB4IxJL-QmRIVXFqkXx7nvE
+version: 4.9
+libraries:
+  - GraphView
+    - https://github.com/jjoe64/GraphView
+  - DragSortListView
+    - https://github.com/bauerca/drag-sort-listview
+  - photoview
+    - https://github.com/chrisbanes/PhotoView
+  - gson
+    - https://github.com/google/gson
+  - httpmime
+    - https://hc.apache.org/httpcomponents-client-ga/httpmime/project-info.html
+    - org.apache.httpcomponents:httpmime
+  - tagsoup
+    - http://home.ccil.org/~cowan/tagsoup/

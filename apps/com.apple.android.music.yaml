@@ -1,0 +1,19 @@
+name: Apple Music
+developer: Apple Inc.
+icon: https://lh3.googleusercontent.com/-E-jAfuwURMbYgvRhS8xLL8p280U9ueeC-IDrJOFmxGZpBJCWOY4jTbOKK1DZkPIFAUu
+version: 0.9.4
+libraries:
+  - JavaCPP
+    - https://github.com/bytedeco/javacpp
+  - EventBus
+    - https://github.com/greenrobot/EventBus
+  - jbox2d
+    - https://github.com/jbox2d/jbox2d
+  - RxJava
+    - https://github.com/ReactiveX/RxJava
+  - SystemBarTint
+    - https://github.com/jgilfelt/SystemBarTint
+  - Picasso
+    - https://github.com/square/picasso
+  - SlidingUpPanel
+    - https://github.com/umano/AndroidSlidingUpPanel
