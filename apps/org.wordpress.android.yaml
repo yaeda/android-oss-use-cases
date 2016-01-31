@@ -1,4 +1,5 @@
 name: WordPress
+developer: Automattic, Inc
 icon: https://lh3.googleusercontent.com/Wyi5h62r9j6Dahf7S4Ul4nNLdG87k3m9PSeYcsnnDzLEPB4IxJL-QmRIVXFqkXx7nvE
 version: 4.9
 libraries:

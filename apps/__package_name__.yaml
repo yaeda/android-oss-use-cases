@@ -1,4 +1,5 @@
 name: __APP_NAME__
+developer: __DEVELOPER_NAME__
 icon: __ICON_URL__
 version: __VERSION__
 libraries:
