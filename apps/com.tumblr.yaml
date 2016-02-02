@@ -1,0 +1,35 @@
+name: Tumblr
+developer: Tumblr, Inc.
+icon: https://lh3.googleusercontent.com/oZyggYWAGGKgqXaVtxctPdES99xZx-o4-UIVOxfgxVlIaGcKpEUBHB9wibO8QrjIaA
+version: 5.2
+libraries:
+  - ActionBar-PullToRefresh
+    - https://github.com/chrisbanes/ActionBar-PullToRefresh
+  - Android PullToRefresh
+    - https://github.com/chrisbanes/Android-PullToRefresh
+  - Android SDK
+    - http://source.android.com
+  - Apache HTTP MIME
+    - http://hc.apache.org/httpconponents-client-ga/httpmime
+  - Apache Pool Component
+    - http://commons.apache.org/proper/commons-pool
+  - DisLruCache
+    - https://github.com/JakeWharton/DiskLruCache
+  - Nine Old Androids
+    - http://nineoldandroids.com
+  - Rebound
+    - http://facebook.github.io/rebound
+  - Signpost
+    - https://github.com/mttkay/signpost
+  - SmoothProgressBar
+    - https://github.com/castorflex/SmoothProgressBar
+  - StickyListHeaders
+    - https://github.com/emilsjolander/StickyListHeaders
+  - Volley
+    - https://android.googlesource.com/platform/frameworks/volley
+  - Butter Knife
+    - https://github.com/JakeWharton/butterknife
+  - Leak Canary
+    - https://github.com/square/leakcanary
+  - ExoPlayer
+    - https://google.github.io/ExoPlayer
