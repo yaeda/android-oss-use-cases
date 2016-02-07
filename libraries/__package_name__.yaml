@@ -1,5 +1,6 @@
 name: __LIBRARY_NAME__
 author: __AUTHOR_NAME__
 license: __LICENSE_TYPE_
-url: __URL__
+url: __URL__ # projct page or repository
+desctiption: __DESCRIPTION__
 # category: __CATEGORY__
