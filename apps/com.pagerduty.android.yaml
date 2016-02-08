@@ -1,0 +1,19 @@
+name: PagerDuty
+developer: PagerDuty, Inc.
+icon: https://lh6.ggpht.com/YagzEGE7nAYJYDxeY--6SrAN-bVjs2nXCwz-scIN-WVixiZOUSclViOS57n4jz_bz2U
+version: 4.5
+libraries:
+  - butterknife
+  - joda-time
+    - https://github.com/JodaOrg/joda-time
+  - retrofit
+  - picasso
+  - okhttp
+  - gson
+    - https://github.com/google/gson
+  - libphonenumber
+    - https://github.com/googlei18n/libphonenumber
+  - BottomSheet
+    - https://github.com/soarcn/BottomSheet
+  - android-iconify
+    - https://github.com/JoanZapata/android-iconify
